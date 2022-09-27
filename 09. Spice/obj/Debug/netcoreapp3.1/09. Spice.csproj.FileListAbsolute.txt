@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\bin\Debug\netcoreapp3.1\09. Spice.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\bin\Debug\netcoreapp3.1\09. Spice.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\bin\Debug\netcoreapp3.1\09. Spice.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\bin\Debug\netcoreapp3.1\09. Spice.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\bin\Debug\netcoreapp3.1\09. Spice.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\bin\Debug\netcoreapp3.1\09. Spice.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\obj\Debug\netcoreapp3.1\09. Spice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\obj\Debug\netcoreapp3.1\09. Spice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\obj\Debug\netcoreapp3.1\09. Spice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\obj\Debug\netcoreapp3.1\09. Spice.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\obj\Debug\netcoreapp3.1\09. Spice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\obj\Debug\netcoreapp3.1\09. Spice.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\obj\Debug\netcoreapp3.1\09. Spice.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\09. Spice\obj\Debug\netcoreapp3.1\09. Spice.genruntimeconfig.cache

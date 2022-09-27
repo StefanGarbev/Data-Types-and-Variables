@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\bin\Debug\netcoreapp3.1\11. Snowballs.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\11. Snowballs\obj\Debug\netcoreapp3.1\11. Snowballs.genruntimeconfig.cache

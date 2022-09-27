@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\bin\Debug\netcoreapp3.1\06. Triples.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\bin\Debug\netcoreapp3.1\06. Triples.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\bin\Debug\netcoreapp3.1\06. Triples.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\bin\Debug\netcoreapp3.1\06. Triples.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\bin\Debug\netcoreapp3.1\06. Triples.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\bin\Debug\netcoreapp3.1\06. Triples.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\obj\Debug\netcoreapp3.1\06. Triples.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\obj\Debug\netcoreapp3.1\06. Triples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\obj\Debug\netcoreapp3.1\06. Triples.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\obj\Debug\netcoreapp3.1\06. Triples.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\obj\Debug\netcoreapp3.1\06. Triples.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\obj\Debug\netcoreapp3.1\06. Triples.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\obj\Debug\netcoreapp3.1\06. Triples.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\06. Triples\obj\Debug\netcoreapp3.1\06. Triples.genruntimeconfig.cache

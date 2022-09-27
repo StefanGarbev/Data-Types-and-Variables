@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.exe
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.deps.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.dev.json
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfo.cs
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.dll
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.pdb
+C:\Users\User\Desktop\TU\07-Код\02-Fundamentles\02 - Data Types and Variables\Data Types and Variables - exercise\Data Types and Variables\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.genruntimeconfig.cache
